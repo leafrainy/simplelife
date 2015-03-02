@@ -4,8 +4,9 @@
 #介绍
     仿lnmp.org
 #使用说明
-    1.点击右侧Download zip下载，后台上传，激活即可使用
-    2.仅支持Emlog 5.1.2
+    1.官方下载：http://www.emlog.net/template/381
+    2.点击右侧Download zip下载，后台上传，激活即可使用
+    3.仅支持Emlog 5.1.2
 #更新
     20131127    v1.0发布
     20131128    v1.1更新
